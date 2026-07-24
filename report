@@ -1,0 +1,34 @@
+# Bharat Bazaar Intelligence Platform
+
+## Project Summary
+Bharat Bazaar Intelligence Platform is an end-to-end Data Analytics project developed using Python, SQL, Machine Learning, and Power BI. The project analyzes global e-commerce sales data to uncover business insights and predict future sales trends.
+
+## Objectives
+- Clean and preprocess raw sales data.
+- Perform SQL-based business analysis.
+- Explore sales patterns using EDA.
+- Build a Machine Learning model for sales prediction.
+- Create an interactive Power BI dashboard.
+
+## Tools & Technologies
+- Python
+- Pandas
+- NumPy
+- SQL (SQLite)
+- Scikit-learn
+- Power BI
+- Jupyter Notebook
+- Git & GitHub
+
+## Project Workflow
+1. Data Understanding
+2. Data Cleaning
+3. SQL Analysis
+4. Exploratory Data Analysis
+5. Feature Engineering
+6. Machine Learning
+7. Interactive Dashboard
+8. Business Insights & Recommendations
+
+## Conclusion
+This project demonstrates the complete data analytics lifecycle and provides actionable business insights through visualization and predictive analytics.
